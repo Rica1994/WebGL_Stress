@@ -3,13 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Interstellar-Ella_Ketnet</title>
+    <title>Interstellar-Ella_Ketnet</title>
+    <link rel="stylesheet" href="Build/style.css">
     <script src="Build/UnityLoader.js"></script>
     <script>
-      UnityLoader.instantiate("unityContainer", "Build/Builds.json");
+      UnityLoader.instantiate("unityContainer", "Build/Builds.json", {Module: {backgroundColor: "#EEEEEE "}});
     </script>
   </head>
   <body>
-    <div id="unityContainer" style="width: 960px; height: 600px; margin: auto"></div>
+    <div id="unityContainer" style="margin: 0"></div>
   </body>
 </html>
