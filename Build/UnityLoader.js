@@ -1856,7 +1856,7 @@ var UnityLoader = UnityLoader || {
                 progressFullUrl: "https://rica1994.github.io/WebGL_Stress/progressFull.Light.png"
             },
             Light: {
-                progressLogoUrl: "https://rica1994.github.io/WebGL_Stress/Logo_SirMouse_RGB_NL.png",
+                progressLogoUrl: "https://rica1994.github.io/WebGL_Stress/FF.png",
                 progressEmptyUrl: "https://rica1994.github.io/WebGL_Stress/progressEmpty.Light.png",
                 progressFullUrl: "https://rica1994.github.io/WebGL_Stress/progressFull.Light.png"   
             }
