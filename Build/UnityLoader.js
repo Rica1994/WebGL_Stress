@@ -1851,14 +1851,14 @@ var UnityLoader = UnityLoader || {
     Progress: {
         Styles: {
             Dark: {
-                progressLogoUrl: "https://rica1994.github.io/BimFollowFinger_Koen/Logo_SirMouse_RGB_NL.png",
-                progressEmptyUrl: "https://rica1994.github.io/BimFollowFinger_Koen/progressEmpty.Light.png",
-                progressFullUrl: "https://rica1994.github.io/BimFollowFinger_Koen/progressFull.Light.png"
+                progressLogoUrl: "https://rica1994.github.io/WebGL_Stress/FF.png",
+                progressEmptyUrl: "https://rica1994.github.io/WebGL_Stress/progressEmpty.Light.png",
+                progressFullUrl: "https://rica1994.github.io/WebGL_Stress/progressFull.Light.png"
             },
             Light: {
-                progressLogoUrl: "https://rica1994.github.io/BimFollowFinger_Koen/Logo_SirMouse_RGB_NL.png",
-                progressEmptyUrl: "https://rica1994.github.io/BimFollowFinger_Koen/progressEmpty.Light.png",
-                progressFullUrl: "https://rica1994.github.io/BimFollowFinger_Koen/progressFull.Light.png"   
+                progressLogoUrl: "https://rica1994.github.io/WebGL_Stress/Logo_SirMouse_RGB_NL.png",
+                progressEmptyUrl: "https://rica1994.github.io/WebGL_Stress/progressEmpty.Light.png",
+                progressFullUrl: "https://rica1994.github.io/WebGL_Stress/progressFull.Light.png"   
             }
         },
         handler: function(e, t) {
